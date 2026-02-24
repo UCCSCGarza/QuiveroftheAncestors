@@ -33,6 +33,8 @@
   },
   "name":"QuiveroftheAncients",
   "resources":[
+    {"id":{"name":"obj_bullet_parent","path":"objects/obj_bullet_parent/obj_bullet_parent.yy",},},
+    {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_enemy_spawner","path":"objects/obj_enemy_spawner/obj_enemy_spawner.yy",},},
     {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -41,6 +43,7 @@
     {"id":{"name":"scr_bounty","path":"scripts/scr_bounty/scr_bounty.yy",},},
     {"id":{"name":"scr_message","path":"scripts/scr_message/scr_message.yy",},},
     {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_temp_blockedobject","path":"sprites/spr_temp_blockedobject/spr_temp_blockedobject.yy",},},
     {"id":{"name":"spr_temp_player","path":"sprites/spr_temp_player/spr_temp_player.yy",},},
   ],
