@@ -53,3 +53,33 @@ if (place_meeting(x, y, obj_door)){
 if (place_meeting(x, y, obj_yehaw)){
 	room_goto(rm_unicorn);
 }
+
+
+/*
+
+*/
+
+// Start charging
+if(mouse_check_button(mb_left)) {
+    charging = true;
+    charge += 1; // charge speed
+	
+	show_debug_message(string(charge));
+    
+    if (charge > max_charge) {
+        charge = max_charge;
+    }
+}
+
+// Release shot
+if (mouse_check_button_released(mb_left)) {
+    
+	instance_create_layer(x, y, "Instances", obj_arrow, {
+	    charge_ratio: charge / max_charge,
+	    shot_power: charge,
+		max_life: max_charge,
+	});
+    
+    charge = 0;
+    charging = false;
+}
