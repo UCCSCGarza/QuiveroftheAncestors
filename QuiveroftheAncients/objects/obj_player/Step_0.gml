@@ -45,8 +45,20 @@ for (var i = 0; i < array_length(objects); i++){
 	
 }
 
+<<<<<<< Updated upstream
 //Collision for hitting gate and going to other room
 if (place_meeting(x, y, obj_gate))
 	{
 		room_goto(rm_forest);
 	}
+=======
+//For going through backyard door to forest
+if (place_meeting(x, y, obj_door)){
+	room_goto(rm_forest);
+}
+
+//For going through forest to unicorn/win screen
+if (place_meeting(x, y, obj_yehaw)){
+	room_goto(rm_unicorn);
+}
+>>>>>>> Stashed changes
