@@ -23,6 +23,7 @@ var _bounties = {
 		}
 	}
 	
+	
 	// Need to create a dynamic lookup to allow selecting the correct bounty
 	// For now
 	var _result = _bounties[$ _id];
