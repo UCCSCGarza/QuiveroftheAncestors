@@ -12,11 +12,14 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< HEAD
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Objects/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Game Controllers","folderPath":"folders/Objects/Game Controllers.yy","name":"Game Controllers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Items","folderPath":"folders/Objects/Items.yy","name":"Items","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Objects/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Room Objects","folderPath":"folders/Objects/Room Objects.yy","name":"Room Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+=======
+>>>>>>> dantebranch
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Other Scripts","folderPath":"folders/Scripts/Other Scripts.yy","name":"Other Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -60,6 +63,8 @@
     {"id":{"name":"spr_temp_blockedobject","path":"sprites/spr_temp_blockedobject/spr_temp_blockedobject.yy",},},
     {"id":{"name":"spr_temp_player","path":"sprites/spr_temp_player/spr_temp_player.yy",},},
     {"id":{"name":"spr_unicorn_horn","path":"sprites/spr_unicorn_horn/spr_unicorn_horn.yy",},},
+    {"id":{"name":"obj_Popup","path":"objects/obj_Popup/obj_Popup.yy",},},
+    {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
