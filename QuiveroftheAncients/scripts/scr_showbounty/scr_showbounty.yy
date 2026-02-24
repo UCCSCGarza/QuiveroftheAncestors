@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_bounty",
+  "%Name":"scr_showbounty",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_bounty",
+  "name":"scr_showbounty",
   "parent":{
     "name":"Other Scripts",
     "path":"folders/Scripts/Other Scripts.yy",

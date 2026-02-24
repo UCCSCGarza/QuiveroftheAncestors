@@ -42,9 +42,6 @@ for (var i = 0; i < array_length(objects); i++){
 	{
 		y -= sign(vertical_movement);
 	}
-	
-<<<<<<< HEAD
-=======
 }
 
 //For going through backyard door to forest
@@ -55,5 +52,4 @@ if (place_meeting(x, y, obj_door)){
 //For going through forest to unicorn/win screen
 if (place_meeting(x, y, obj_yehaw)){
 	room_goto(rm_unicorn);
->>>>>>> timbranch
 }
