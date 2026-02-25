@@ -2,6 +2,7 @@
 show_debug_message("Shooting spread");
 direction = point_direction(x,y,obj_player.x,obj_player.y);
 direction += (360/obj_boogie_man.num_projectile_spread)*obj_boogie_man.bullets_fired;
+image_angle = direction;
 speed = 4;
 
 //any additional code for child bullet tracking the player

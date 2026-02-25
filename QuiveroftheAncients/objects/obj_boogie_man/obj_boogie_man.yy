@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_blockedobject",
-    "path":"sprites/spr_temp_blockedobject/spr_temp_blockedobject.yy",
+    "name":"spr_BoogieMan",
+    "path":"sprites/spr_BoogieMan/spr_BoogieMan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

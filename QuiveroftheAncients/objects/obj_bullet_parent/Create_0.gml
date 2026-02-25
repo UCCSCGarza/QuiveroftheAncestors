@@ -1,5 +1,6 @@
 //set x and y speeds relative to player
 direction = point_direction(x,y,obj_player.x,obj_player.y);
+image_angle = direction;
 speed = 6;
 
 //any additional code for child bullet tracking the player

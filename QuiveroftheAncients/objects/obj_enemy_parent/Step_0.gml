@@ -74,5 +74,6 @@ for (var i = 0; i < array_length(objects); i++){
 }
 
 if (hp <= 0){
-	instance_destroy()
+	instance_create_layer(x, y, "Instances", obj_arrow);
+	instance_destroy();
 }
