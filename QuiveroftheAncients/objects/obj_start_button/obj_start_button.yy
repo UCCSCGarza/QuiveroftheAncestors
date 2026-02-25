@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
-  "eventList":[],
+  "%Name":"obj_start_button",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_start_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Room Objects",
-    "path":"folders/Objects/Room Objects.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_door",
-    "path":"sprites/spr_temp_door/spr_temp_door.yy",
+    "name":"spr_temp_start_button",
+    "path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
