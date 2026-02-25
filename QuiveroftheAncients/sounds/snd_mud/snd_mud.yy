@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_unicornlove",
+  "%Name":"snd_mud",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":62.081158,
+  "duration":0.0,
   "exportDir":"",
-  "name":"snd_unicornlove",
+  "name":"snd_mud",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_unicornlove.mp3",
+  "soundFile":"",
   "volume":1.0,
 }
