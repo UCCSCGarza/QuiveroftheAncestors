@@ -72,3 +72,7 @@ for (var i = 0; i < array_length(objects); i++){
 	}
 	
 }
+
+if (hp <= 0){
+	instance_destroy()
+}

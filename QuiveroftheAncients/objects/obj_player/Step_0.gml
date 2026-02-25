@@ -19,6 +19,15 @@ var vertical_movement = vertical_direction * move_speed;
 //Add the horizontal movement
 x += horizontal_movement;
 
+//Check whether the horizontal movement is positive or negative, if negative flip sprite
+if (horizontal_movement > 0)
+{
+	image_xscale = 1
+} else if (horizontal_movement < 0)
+{
+	image_xscale = -1
+}
+
 //For loop to iterate through the object list for collisions
 for (var i = 0; i < array_length(objects); i++){
 	
@@ -52,34 +61,4 @@ if (place_meeting(x, y, obj_door)){
 //For going through forest to unicorn/win screen
 if (place_meeting(x, y, obj_yehaw)){
 	room_goto(rm_unicorn);
-}
-
-
-/*
-
-*/
-
-// Start charging
-if(mouse_check_button(mb_left)) {
-    charging = true;
-    charge += 1; // charge speed
-	
-	show_debug_message(string(charge));
-    
-    if (charge > max_charge) {
-        charge = max_charge;
-    }
-}
-
-// Release shot
-if (mouse_check_button_released(mb_left)) {
-    
-	instance_create_layer(x, y, "Instances", obj_arrow, {
-	    charge_ratio: charge / max_charge,
-	    shot_power: charge,
-		max_life: max_charge,
-	});
-    
-    charge = 0;
-    charging = false;
 }
