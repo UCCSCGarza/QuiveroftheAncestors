@@ -32,8 +32,13 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< Updated upstream
     "name":"spr_temp_player",
     "path":"sprites/spr_temp_player/spr_temp_player.yy",
+=======
+    "name":"spr_Player",
+    "path":"sprites/spr_Player/spr_Player.yy",
+>>>>>>> Stashed changes
   },
   "spriteMaskId":null,
   "visible":true,

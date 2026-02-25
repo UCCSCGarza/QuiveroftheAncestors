@@ -9,8 +9,13 @@
   "name":"obj_enemy_parent",
   "overriddenProperties":[],
   "parent":{
+<<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_enemy_parent/obj_enemy_parent.yy
     "name":"Enemies",
     "path":"folders/Objects/Enemies.yy",
+========
+    "name":"Room Objects",
+    "path":"folders/Objects/Room Objects.yy",
+>>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_Popup/obj_Popup.yy
   },
   "parentObjectId":null,
   "persistent":false,

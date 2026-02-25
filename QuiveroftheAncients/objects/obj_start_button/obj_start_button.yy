@@ -2,7 +2,11 @@
   "$GMObject":"",
   "%Name":"obj_start_button",
   "eventList":[
+<<<<<<< Updated upstream
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+=======
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"obj_start_button",
@@ -11,7 +15,14 @@
     "name":"Buttons",
     "path":"folders/Objects/Buttons.yy",
   },
+<<<<<<< Updated upstream
   "parentObjectId":null,
+=======
+  "parentObjectId":{
+    "name":"obj_parentbutton",
+    "path":"objects/obj_parentbutton/obj_parentbutton.yy",
+  },
+>>>>>>> Stashed changes
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

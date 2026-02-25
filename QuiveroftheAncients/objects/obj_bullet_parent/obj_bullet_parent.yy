@@ -3,13 +3,22 @@
   "%Name":"obj_bullet_parent",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
+=======
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"obj_bullet_parent",
   "overriddenProperties":[],
   "parent":{
+<<<<<<< Updated upstream
     "name":"Objects",
     "path":"folders/Objects.yy",
+=======
+    "name":"Room Objects",
+    "path":"folders/Objects/Room Objects.yy",
+>>>>>>> Stashed changes
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +39,13 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< Updated upstream
     "name":"spr_bullet",
     "path":"sprites/spr_bullet/spr_bullet.yy",
+=======
+    "name":"spr_LaserBeam",
+    "path":"sprites/spr_LaserBeam/spr_LaserBeam.yy",
+>>>>>>> Stashed changes
   },
   "spriteMaskId":null,
   "visible":true,

@@ -23,7 +23,11 @@
   ],
   "name":"spr_temp_player",
   "nineSlice":null,
-  "origin":0,
+<<<<<<< Updated upstream
+  "origin":9,
+=======
+  "origin":4,
+>>>>>>> Stashed changes
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -75,8 +79,13 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+<<<<<<< Updated upstream
+    "xorigin":59,
+    "yorigin":31,
+=======
+    "xorigin":32,
+    "yorigin":32,
+>>>>>>> Stashed changes
   },
   "swatchColours":null,
   "swfPrecision":0.5,

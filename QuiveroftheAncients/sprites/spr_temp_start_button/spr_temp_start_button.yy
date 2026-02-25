@@ -1,7 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_temp_start_button",
+<<<<<<< Updated upstream
   "bboxMode":0,
+=======
+  "bboxMode":1,
+>>>>>>> Stashed changes
   "bbox_bottom":127,
   "bbox_left":0,
   "bbox_right":255,

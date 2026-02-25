@@ -1,11 +1,19 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_bullet",
+<<<<<<< Updated upstream
   "bboxMode":0,
   "bbox_bottom":63,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,
+=======
+  "bboxMode":2,
+  "bbox_bottom":45,
+  "bbox_left":18,
+  "bbox_right":45,
+  "bbox_top":18,
+>>>>>>> Stashed changes
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -23,7 +31,11 @@
   ],
   "name":"spr_bullet",
   "nineSlice":null,
+<<<<<<< Updated upstream
+  "origin":4,
+=======
   "origin":0,
+>>>>>>> Stashed changes
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -75,8 +87,13 @@
     ],
     "visibleRange":null,
     "volume":1.0,
+<<<<<<< Updated upstream
+    "xorigin":32,
+    "yorigin":32,
+=======
     "xorigin":0,
     "yorigin":0,
+>>>>>>> Stashed changes
   },
   "swatchColours":null,
   "swfPrecision":0.5,
