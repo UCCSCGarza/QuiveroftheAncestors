@@ -6,6 +6,10 @@ image_angle = point_direction(obj_player.x, obj_player.y, mouse_x, mouse_y)
 x = obj_player.x + lengthdir_x(offset, image_angle);
 y = obj_player.y + lengthdir_y(offset, image_angle);
 
+if(mouse_check_button_pressed(mb_left)){
+	audio_play_sound(snd_bow, 1, false);
+}
+
 // Check to see if mouse button is held down, and if held down start incrementing the charge
 // variable as long as it is held down
 if(mouse_check_button(mb_left)) {
@@ -34,6 +38,8 @@ if(mouse_check_button(mb_left)) {
 // so it can play the animation, then create an arrow instance with the given charge ratio, charge,
 // and max_life
 if (mouse_check_button_released(mb_left)) {
+	
+	audio_play_sound(snd_shoot, 1, false);
 	
 	//Play animation
 	released = true;
