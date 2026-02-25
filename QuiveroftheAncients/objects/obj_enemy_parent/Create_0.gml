@@ -18,4 +18,4 @@ COOLDOWN = 100;
 //countdown is the current time to next projectile being fired
 projectile_countdown = COOLDOWN;
 
-hp = 100;
+hp = 20;
