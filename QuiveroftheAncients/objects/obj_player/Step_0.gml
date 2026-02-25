@@ -19,6 +19,15 @@ var vertical_movement = vertical_direction * move_speed;
 //Add the horizontal movement
 x += horizontal_movement;
 
+//Check whether the horizontal movement is positive or negative, if negative flip sprite
+if (horizontal_movement > 0)
+{
+	image_xscale = 1
+} else if (horizontal_movement < 0)
+{
+	image_xscale = -1
+}
+
 //For loop to iterate through the object list for collisions
 for (var i = 0; i < array_length(objects); i++){
 	
@@ -42,5 +51,14 @@ for (var i = 0; i < array_length(objects); i++){
 	{
 		y -= sign(vertical_movement);
 	}
-	
+}
+
+//For going through backyard door to forest
+if (place_meeting(x, y, obj_door)){
+	room_goto(rm_forest);
+}
+
+//For going through forest to unicorn/win screen
+if (place_meeting(x, y, obj_yehaw)){
+	room_goto(rm_unicorn);
 }
