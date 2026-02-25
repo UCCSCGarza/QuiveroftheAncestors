@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_bounty_placeholder",
+    "path":"sprites/spr_bounty_placeholder/spr_bounty_placeholder.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

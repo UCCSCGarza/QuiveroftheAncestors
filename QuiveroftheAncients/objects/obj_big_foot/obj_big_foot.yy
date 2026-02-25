@@ -1,21 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_boogie_man",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_big_foot",
+  "eventList":[],
   "managed":true,
-  "name":"obj_boogie_man",
+  "name":"obj_big_foot",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
     "path":"folders/Objects/Enemies.yy",
   },
-  "parentObjectId":{
-    "name":"obj_enemy_parent",
-    "path":"objects/obj_enemy_parent/obj_enemy_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_BoogieMan",
-    "path":"sprites/spr_BoogieMan/spr_BoogieMan.yy",
+    "name":"spr_Bigfoot",
+    "path":"sprites/spr_Bigfoot/spr_Bigfoot.yy",
   },
   "spriteMaskId":null,
   "visible":true,
