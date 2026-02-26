@@ -1,8 +1,14 @@
 {
   "$GMSprite":"v2",
+<<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_big_foot/spr_big_foot.yy
   "%Name":"spr_big_foot",
   "bboxMode":0,
   "bbox_bottom":0,
+=======
+  "%Name":"spr_temp_start_button",
+  "bboxMode":1,
+  "bbox_bottom":127,
+>>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
   "bbox_left":0,
   "bbox_right":0,
   "bbox_top":0,
