@@ -27,4 +27,4 @@ time_to_switch = 600;
 switch_countdown = time_to_switch;
 //"default" = chase and shoot, "spew" = stop and fire burst
 
-hp = 20;
+hp = 40;

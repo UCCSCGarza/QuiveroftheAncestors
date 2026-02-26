@@ -11,7 +11,10 @@
     "name":"Buttons",
     "path":"folders/Objects/Buttons.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parentbutton",
+    "path":"objects/obj_parentbutton/obj_parentbutton.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_quit_button",
-    "path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",
+    "name":"spr_Quit",
+    "path":"sprites/spr_Quit/spr_Quit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

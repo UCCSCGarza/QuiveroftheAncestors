@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_start_button",
-    "path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",
+    "name":"spr_start",
+    "path":"sprites/spr_start/spr_start.yy",
   },
   "spriteMaskId":null,
   "visible":true,
