@@ -54,8 +54,8 @@ function scr_uni_dialogue_add_line(_diag, _id) {
     case 6:
         _diag.add(spr_Unicorn,
         "Step closer then. \nLet the magic pull you in.");
-
-    break;
+		
+	break;
 
     }
 }

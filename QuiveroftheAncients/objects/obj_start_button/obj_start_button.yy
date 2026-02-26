@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Start",
-    "path":"sprites/spr_Start/spr_Start.yy",
+    "name":"spr_start",
+    "path":"sprites/spr_start/spr_start.yy",
   },
   "spriteMaskId":null,
   "visible":true,
