@@ -40,7 +40,7 @@
   "resources":[
     {"id":{"name":"fnt_stone_tomb","path":"fonts/fnt_stone_tomb/fnt_stone_tomb.yy",},},
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},},
-    {"id":{"name":"obj_big_foot","path":"objects/obj_big_foot/obj_big_foot.yy",},},
+    {"id":{"name":"obj_bigfoot","path":"objects/obj_bigfoot/obj_bigfoot.yy",},},
     {"id":{"name":"obj_boogie_man","path":"objects/obj_boogie_man/obj_boogie_man.yy",},},
     {"id":{"name":"obj_bounties","path":"objects/obj_bounties/obj_bounties.yy",},},
     {"id":{"name":"obj_bounty_bf","path":"objects/obj_bounty_bf/obj_bounty_bf.yy",},},

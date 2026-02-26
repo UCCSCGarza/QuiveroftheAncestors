@@ -109,7 +109,6 @@
     {"name":"inst_4822BCBF","path":"rooms/rm_tutorial/rm_tutorial.yy",},
     {"name":"inst_547F3D46","path":"rooms/rm_tutorial/rm_tutorial.yy",},
     {"name":"inst_A62A114","path":"rooms/rm_tutorial/rm_tutorial.yy",},
-    {"name":"inst_7405EFA1","path":"rooms/rm_tutorial/rm_tutorial.yy",},
     {"name":"inst_5D8A5F70","path":"rooms/rm_tutorial/rm_tutorial.yy",},
     {"name":"inst_3017B737","path":"rooms/rm_tutorial/rm_tutorial.yy",},
     {"name":"inst_7DB21015","path":"rooms/rm_tutorial/rm_tutorial.yy",},
