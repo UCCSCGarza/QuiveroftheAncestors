@@ -1,9 +1,6 @@
 // Drawing our starting prompt
 if (prompt_active) {
-
-	prompt_active = true;
-	
-	// get gui width and height for conversation text
+// get gui width and height for conversation text
     var gui_w = display_get_gui_width();
     var gui_h = display_get_gui_height();
 	var border = 4;
@@ -40,12 +37,12 @@ if (prompt_active) {
     draw_set_color(c_white);
     draw_set_halign(fa_center);
     draw_set_valign(fa_middle);
-    draw_text(gui_w / 2, gui_h / 2, "Whoa what is this on the ground? \n Where did this bounty come from?  \n I can see the Unicorn if I defeat these monsters?  \n\nPress 'E' to grab this bounty...\n  ");
+    draw_text(gui_w / 2, gui_h / 2, "Big Foot huh?  \n How many of these horns do I need to see the unicorn? ");
 }
 
 if (prompt_active) {
-    if (keyboard_check_pressed(vk_escape) &&
-        !instance_position(obj_player.x, obj_player.y, obj_bounty_bm)) {
+       if (keyboard_check_pressed(vk_escape) &&
+        !instance_position(obj_player.x, obj_player.y, obj_forest)) { 
         prompt_active = false;
     }
 }
