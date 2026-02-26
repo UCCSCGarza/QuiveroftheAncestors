@@ -17,7 +17,7 @@ if (behavior == "default"){
 		}
 		//checks if enemy is ranged
 		if (CAN_SHOOT){
-			
+
 			projectile_countdown--;
 			//if projectile is ready to shoot, create projectile
 			//and reset countdown
@@ -48,35 +48,32 @@ if (behavior == "default"){
 	vertical_direction = 0;
 	
 	if (switch_countdown <= 0){
-		//leap to player's previous (target) position
-		vertical_direction = 0;
-		horizontal_direction = 0;
+		//""leap"" to player's previous (target) position
 		targetX = obj_player.x;
 		targetY = obj_player.y;
-		direction = point_direction(x,y,targetX,targetY);
-		direction += (360/obj_boogie_man.num_projectile_spread)*obj_boogie_man.bullets_fired;
-		speed = move_speed*leap_speed_mod;
+		horizontal_direction = sign(obj_player.x-x);
+		vertical_direction = sign(obj_player.y-y);
+		switch_countdown = leap_length;
+		move_speed*=leap_speed_mod;
 		behavior = "leap";
 		
 	} else {
 		switch_countdown--;	
 	}
-	
-	
+		
 //wait behavior
 }else if (behavior == "leap"){
 		
-		//restore default behavior
-		speed = 0;
-		behavior = "default";
+	horizontal_direction = sign(obj_player.x-x);
+	vertical_direction = sign(obj_player.y-y);
+	if (switch_countdown <= 0) {
 		move_speed /= leap_speed_mod;
+		behavior = "default";
 		switch_countdown = time_to_switch;
-		
-		horizontal_direction = 0;
-		vertical_direction = 0;
-		
+	} else {
+		switch_countdown--;
+	}
 }//leap behavior
-
 
 
 //Code below is copied from player movement
@@ -120,3 +117,8 @@ for (var i = 0; i < array_length(objects); i++){
 	}
 	
 }
+
+if (hp <= 0){
+	instance_destroy(self);	
+}
+

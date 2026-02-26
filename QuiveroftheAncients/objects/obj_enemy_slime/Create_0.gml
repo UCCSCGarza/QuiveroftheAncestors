@@ -16,3 +16,5 @@ vertical_direction = 0;
 //cooldown is the constant time between projectiles (decrease for rapid fire)
 COOLDOWN = 100;
 //countdown is the current time to next projectile being fired
+
+hp = 30;
