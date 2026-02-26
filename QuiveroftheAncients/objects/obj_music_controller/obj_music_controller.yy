@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_story_step",
+  "%Name":"obj_music_controller",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_story_step",
+  "name":"obj_music_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"Room Objects",
-    "path":"folders/Objects/Room Objects.yy",
+    "name":"Game Controllers",
+    "path":"folders/Objects/Game Controllers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
