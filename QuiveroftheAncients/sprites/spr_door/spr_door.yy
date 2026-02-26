@@ -3,10 +3,13 @@
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
+<<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
   "%Name":"spr_door",
   "bboxMode":0,
   "bbox_bottom":63,
 =======
+=======
+>>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
 =======
 >>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
 =======
