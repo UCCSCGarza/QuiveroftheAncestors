@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":0.4063719,
   "exportDir":"",
   "name":"snd_mud",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"",
-  "volume":1.0,
+  "soundFile":"snd_mud.mp3",
+  "volume":0.1,
 }
