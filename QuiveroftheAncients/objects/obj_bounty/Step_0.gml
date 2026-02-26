@@ -1,4 +1,8 @@
 /// View the Bounty List
+if(place_meeting(x, y, obj_player) && !global.has_bounty_list)
+{
+	global.has_bounty_list = true;
+}
 
 if(global.bounty_list)
 {

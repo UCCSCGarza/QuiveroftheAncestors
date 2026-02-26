@@ -6,20 +6,20 @@ var _bounties = {
 
 		"Boogie Man" : {
 		    title: "Wanted",
-		    portrait: spr_boogie,
+		    portrait: spr_BoogieWanted,
 		    name: "Boogie Man",
 		    crime: "Crimes against Humanity",
-		    reward_icon: spr_unicorn_horn
+		    reward_icon: spr_UnicornHorn
 		},
 		
 		
 		
 		"Big Foot" : {
 			title: "Wanted",
-		    portrait: spr_bigfoot,
+		    portrait:  spr_BigfootWanted,
 		    name: "Big Foot",
 		    crime: "Eating everyone's food and laughing about it",
-		    reward_icon: spr_unicorn_horn
+		    reward_icon: spr_UnicornHorn
 		}
 	}
 	
