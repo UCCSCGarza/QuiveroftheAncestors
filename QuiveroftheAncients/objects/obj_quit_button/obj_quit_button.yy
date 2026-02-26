@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_quit_button",
-    "path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",
+    "name":"spr_Quit",
+    "path":"sprites/spr_Quit/spr_Quit.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":true
 }

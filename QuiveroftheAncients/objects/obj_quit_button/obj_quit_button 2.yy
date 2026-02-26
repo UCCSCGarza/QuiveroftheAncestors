@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_start_button",
+  "%Name":"obj_quit_button",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0"}
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_start_button",
+  "name":"obj_quit_button",
   "overriddenProperties":[],
   "parent":{
     "name":"Buttons",
-    "path":"folders/Objects/Buttons.yy"
+    "path":"folders/Objects/Buttons.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parentbutton",
-    "path":"objects/obj_parentbutton/obj_parentbutton.yy"
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Start",
-    "path":"sprites/spr_Start/spr_Start.yy"
+    "name":"spr_Quit",
+    "path":"sprites/spr_Quit/spr_Quit.yy",
   },
   "spriteMaskId":null,
-  "visible":true
+  "visible":true,
 }
