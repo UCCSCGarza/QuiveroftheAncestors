@@ -3,6 +3,7 @@
   "%Name":"obj_outside",
   "eventList":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_outside/obj_outside.yy
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -10,6 +11,11 @@
 ========
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
 =======
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -24,6 +30,7 @@
     "path":"folders/Objects/Room Objects.yy",
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_outside/obj_outside.yy
   "parentObjectId":null,
 ========
@@ -32,6 +39,9 @@
     "path":"objects/obj_parentbutton/obj_parentbutton.yy",
   },
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+  "parentObjectId":null,
+>>>>>>> Stashed changes
 =======
   "parentObjectId":null,
 >>>>>>> Stashed changes
@@ -53,6 +63,7 @@
   "resourceVersion":"2.0",
   "solid":false,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_outside/obj_outside.yy
   "spriteId":null,
 ========
@@ -61,6 +72,9 @@
     "path":"sprites/spr_Start/spr_Start.yy",
   },
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+  "spriteId":null,
+>>>>>>> Stashed changes
 =======
   "spriteId":null,
 >>>>>>> Stashed changes

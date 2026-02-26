@@ -17,7 +17,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -87,6 +90,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -107,6 +113,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
     {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
     {"id":{"name":"scr_showbounty","path":"scripts/scr_showbounty/scr_showbounty.yy",},},
@@ -115,6 +122,12 @@
     {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
     {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
     {"id":{"name":"scr_showbounty","path":"scripts/scr_showbounty/scr_showbounty.yy",},},
+=======
+    {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},
+    {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
+    {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
+    {"id":{"name":"scr_showbounty","path":"scripts/scr_showbounty/scr_showbounty.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},
     {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
@@ -150,6 +163,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -182,6 +198,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"spr_temp_quit_button","path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",},},
+    {"id":{"name":"spr_temp_start_button","path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"spr_temp_quit_button","path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",},},
     {"id":{"name":"spr_temp_start_button","path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",},},
@@ -215,6 +236,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"tls_Bamboo","path":"tilesets/tls_Bamboo/tls_Bamboo.yy",},},
+    {"id":{"name":"tls_grass","path":"tilesets/tls_grass/tls_grass.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"tls_Bamboo","path":"tilesets/tls_Bamboo/tls_Bamboo.yy",},},
     {"id":{"name":"tls_grass","path":"tilesets/tls_grass/tls_grass.yy",},},
@@ -246,8 +272,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_forest","path":"rooms/rm_forest/rm_forest.yy",},},
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

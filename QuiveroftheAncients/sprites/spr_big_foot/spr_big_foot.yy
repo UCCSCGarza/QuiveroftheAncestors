@@ -2,10 +2,13 @@
   "$GMSprite":"v2",
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_big_foot/spr_big_foot.yy
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_big_foot/spr_big_foot.yy
+<<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_big_foot/spr_big_foot.yy
   "%Name":"spr_big_foot",
   "bboxMode":0,
   "bbox_bottom":0,
 =======
+=======
+>>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
 =======
 >>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
   "%Name":"spr_temp_start_button",
