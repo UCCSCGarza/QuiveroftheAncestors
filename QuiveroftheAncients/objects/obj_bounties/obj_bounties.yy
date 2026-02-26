@@ -2,6 +2,7 @@
   "$GMObject":"",
   "%Name":"obj_bounties",
   "eventList":[
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_bounties/obj_bounties.yy
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -9,6 +10,11 @@
 ========
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"obj_bounties",
@@ -17,6 +23,7 @@
     "name":"Items",
     "path":"folders/Objects/Items.yy",
   },
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_bounties/obj_bounties.yy
   "parentObjectId":null,
 ========
@@ -25,6 +32,9 @@
     "path":"objects/obj_parentbutton/obj_parentbutton.yy",
   },
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+  "parentObjectId":null,
+>>>>>>> Stashed changes
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -43,6 +53,7 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:QuiveroftheAncients/objects/obj_bounties/obj_bounties.yy
     "name":"spr_bounty_placeholder",
     "path":"sprites/spr_bounty_placeholder/spr_bounty_placeholder.yy",
@@ -50,6 +61,10 @@
     "name":"spr_Start",
     "path":"sprites/spr_Start/spr_Start.yy",
 >>>>>>>> Stashed changes:QuiveroftheAncients/objects/obj_start_button/obj_start_button.yy
+=======
+    "name":"spr_bounty_placeholder",
+    "path":"sprites/spr_bounty_placeholder/spr_bounty_placeholder.yy",
+>>>>>>> Stashed changes
   },
   "spriteMaskId":null,
   "visible":true,
