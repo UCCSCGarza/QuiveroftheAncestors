@@ -1,3 +1,3 @@
 /// Use built in visible function
 
-visible = false;
+prompt_active = false;

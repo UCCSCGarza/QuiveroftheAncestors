@@ -1,6 +1,7 @@
-/// @description Draw Event for Bounty
-if (visible) {
-    draw_self();
+
+if(global.bounty_list){
+	draw_self();
+	// 
     	// get the name of the bounty or string name from bounty controller array
     var _selected_bounty = global.bounties[global.current_bounty];
     var _result = scr_showbounty(_selected_bounty);
@@ -30,4 +31,3 @@ if (visible) {
         draw_sprite(_result.reward_icon, 0, x - 30, y + 120);
     }
 }
-
