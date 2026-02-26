@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bounty_controller",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_big_foot",
+  "eventList":[],
   "managed":true,
-  "name":"obj_bounty_controller",
+  "name":"obj_big_foot",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game Controllers",
-    "path":"folders/Objects/Game Controllers.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Enemies.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Bigfoot",
+    "path":"sprites/spr_Bigfoot/spr_Bigfoot.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
