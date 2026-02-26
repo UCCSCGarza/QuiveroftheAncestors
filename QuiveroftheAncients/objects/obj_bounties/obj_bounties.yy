@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_start",
+  "%Name":"obj_bounties",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_start",
+  "name":"obj_bounties",
   "overriddenProperties":[],
   "parent":{
-    "name":"Room Objects",
-    "path":"folders/Objects/Room Objects.yy",
+    "name":"Items",
+    "path":"folders/Objects/Items.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_blockedobject",
-    "path":"sprites/spr_temp_blockedobject/spr_temp_blockedobject.yy",
+    "name":"spr_bounty_placeholder",
+    "path":"sprites/spr_bounty_placeholder/spr_bounty_placeholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,
