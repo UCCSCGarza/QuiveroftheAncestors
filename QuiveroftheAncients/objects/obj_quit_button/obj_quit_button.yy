@@ -34,5 +34,5 @@
     "path":"sprites/spr_Quit/spr_Quit.yy",
   },
   "spriteMaskId":null,
-  "visible":true
+  "visible":true,
 }

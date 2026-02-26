@@ -2,18 +2,18 @@
   "$GMObject":"",
   "%Name":"obj_start_button",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0"}
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_start_button",
   "overriddenProperties":[],
   "parent":{
     "name":"Buttons",
-    "path":"folders/Objects/Buttons.yy"
+    "path":"folders/Objects/Buttons.yy",
   },
   "parentObjectId":{
     "name":"obj_parentbutton",
-    "path":"objects/obj_parentbutton/obj_parentbutton.yy"
+    "path":"objects/obj_parentbutton/obj_parentbutton.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -34,8 +34,8 @@
   "solid":false,
   "spriteId":{
     "name":"spr_Start",
-    "path":"sprites/spr_Start/spr_Start.yy"
+    "path":"sprites/spr_Start/spr_Start.yy",
   },
   "spriteMaskId":null,
-  "visible":true
+  "visible":true,
 }

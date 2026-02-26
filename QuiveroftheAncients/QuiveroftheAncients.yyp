@@ -91,6 +91,7 @@
     {"id":{"name":"spr_bounty","path":"sprites/spr_bounty/spr_bounty.yy",},},
     {"id":{"name":"spr_Bow","path":"sprites/spr_Bow/spr_Bow.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
+    {"id":{"name":"spr_kimono","path":"sprites/spr_kimono/spr_kimono.yy",},},
     {"id":{"name":"spr_LaserBeam","path":"sprites/spr_LaserBeam/spr_LaserBeam.yy",},},
     {"id":{"name":"spr_Mudball","path":"sprites/spr_Mudball/spr_Mudball.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
