@@ -24,7 +24,11 @@
   "name":"spr_temp_blockedobject",
   "nineSlice":null,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "origin":0,
+=======
+  "origin":9,
+>>>>>>> Stashed changes
 =======
   "origin":9,
 >>>>>>> Stashed changes
@@ -80,8 +84,13 @@
     "visibleRange":null,
     "volume":1.0,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "xorigin":0,
     "yorigin":0,
+=======
+    "xorigin":32,
+    "yorigin":29,
+>>>>>>> Stashed changes
 =======
     "xorigin":32,
     "yorigin":29,

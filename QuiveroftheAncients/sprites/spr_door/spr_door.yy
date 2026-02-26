@@ -1,10 +1,13 @@
 {
   "$GMSprite":"v2",
 <<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
+<<<<<<< Updated upstream:QuiveroftheAncients/sprites/spr_door/spr_door.yy
   "%Name":"spr_door",
   "bboxMode":0,
   "bbox_bottom":63,
 =======
+=======
+>>>>>>> Stashed changes:QuiveroftheAncients/sprites/spr_temp_start_button/spr_temp_start_button.yy
   "%Name":"spr_temp_start_button",
   "bboxMode":1,
   "bbox_bottom":127,

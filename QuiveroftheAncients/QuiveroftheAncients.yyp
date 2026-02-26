@@ -13,7 +13,10 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"Buttons","folderPath":"folders/Objects/Buttons.yy","name":"Buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
 >>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Objects/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -71,6 +74,9 @@
     {"id":{"name":"obj_story_step","path":"objects/obj_story_step/obj_story_step.yy",},},
     {"id":{"name":"obj_uni_conversation","path":"objects/obj_uni_conversation/obj_uni_conversation.yy",},},
     {"id":{"name":"obj_unicorn","path":"objects/obj_unicorn/obj_unicorn.yy",},},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_yehaw","path":"objects/obj_yehaw/obj_yehaw.yy",},},
@@ -78,6 +84,7 @@
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"id":{"name":"rm_unicorn","path":"rooms/rm_unicorn/rm_unicorn.yy",},},
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
     {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
@@ -87,6 +94,12 @@
     {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
     {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
     {"id":{"name":"scr_showbounty","path":"scripts/scr_showbounty/scr_showbounty.yy",},},
+=======
+    {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},
+    {"id":{"name":"scr_Popup","path":"scripts/scr_Popup/scr_Popup.yy",},},
+    {"id":{"name":"scr_save_item","path":"scripts/scr_save_item/scr_save_item.yy",},},
+    {"id":{"name":"scr_showbounty","path":"scripts/scr_showbounty/scr_showbounty.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"scr_uni_dialogue","path":"scripts/scr_uni_dialogue/scr_uni_dialogue.yy",},},
     {"id":{"name":"snd_bow","path":"sounds/snd_bow/snd_bow.yy",},},
     {"id":{"name":"snd_laser","path":"sounds/snd_laser/snd_laser.yy",},},
@@ -94,6 +107,9 @@
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
     {"id":{"name":"snd_shoot","path":"sounds/snd_shoot/snd_shoot.yy",},},
     {"id":{"name":"snd_unicornlove","path":"sounds/snd_unicornlove/snd_unicornlove.yy",},},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"spr_ArrowProjectile","path":"sprites/spr_ArrowProjectile/spr_ArrowProjectile.yy",},},
     {"id":{"name":"spr_Bigfoot","path":"sprites/spr_Bigfoot/spr_Bigfoot.yy",},},
@@ -114,6 +130,11 @@
     {"id":{"name":"spr_temp_blockedobject","path":"sprites/spr_temp_blockedobject/spr_temp_blockedobject.yy",},},
     {"id":{"name":"spr_temp_player","path":"sprites/spr_temp_player/spr_temp_player.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"spr_temp_quit_button","path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",},},
+    {"id":{"name":"spr_temp_start_button","path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"spr_temp_quit_button","path":"sprites/spr_temp_quit_button/spr_temp_quit_button.yy",},},
     {"id":{"name":"spr_temp_start_button","path":"sprites/spr_temp_start_button/spr_temp_start_button.yy",},},
@@ -127,6 +148,11 @@
     {"id":{"name":"tls_ForestTileset","path":"sprites/tls_ForestTileset/tls_ForestTileset.yy",},},
     {"id":{"name":"tls_WoodTileset","path":"sprites/tls_WoodTileset/tls_WoodTileset.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"tls_Bamboo","path":"tilesets/tls_Bamboo/tls_Bamboo.yy",},},
+    {"id":{"name":"tls_grass","path":"tilesets/tls_grass/tls_grass.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"tls_Bamboo","path":"tilesets/tls_Bamboo/tls_Bamboo.yy",},},
     {"id":{"name":"tls_grass","path":"tilesets/tls_grass/tls_grass.yy",},},
@@ -138,8 +164,11 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_forest","path":"rooms/rm_forest/rm_forest.yy",},},
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     {"roomId":{"name":"rm_unicorn","path":"rooms/rm_unicorn/rm_unicorn.yy",},},
