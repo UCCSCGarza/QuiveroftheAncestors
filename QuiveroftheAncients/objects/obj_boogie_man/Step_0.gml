@@ -109,6 +109,6 @@ for (var i = 0; i < array_length(objects); i++){
 
 
 if (hp <= 0){
-	instance_create_layer(x, y, "Instances", obj_arrow);
+	instance_create_layer(x, y, "Instances", obj_UnicornHorn);
 	instance_destroy()
 }

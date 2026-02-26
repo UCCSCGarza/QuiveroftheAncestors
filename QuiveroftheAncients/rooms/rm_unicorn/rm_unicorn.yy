@@ -101,6 +101,7 @@
     {"name":"inst_154BA9A","path":"rooms/rm_unicorn/rm_unicorn.yy",},
     {"name":"inst_505C9DE7","path":"rooms/rm_unicorn/rm_unicorn.yy",},
     {"name":"inst_34F94D01","path":"rooms/rm_unicorn/rm_unicorn.yy",},
+    {"name":"inst_185272E","path":"rooms/rm_unicorn/rm_unicorn.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -206,6 +207,7 @@
         {"$GMRInstance":"v4","%Name":"inst_154BA9A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_154BA9A","objectId":{"name":"obj_bounty_controller","path":"objects/obj_bounty_controller/obj_bounty_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":-64.0,},
         {"$GMRInstance":"v4","%Name":"inst_505C9DE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_505C9DE7","objectId":{"name":"obj_bow","path":"objects/obj_bow/obj_bow.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":576.0,},
         {"$GMRInstance":"v4","%Name":"inst_34F94D01","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_34F94D01","objectId":{"name":"obj_music_controller","path":"objects/obj_music_controller/obj_music_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-128.0,"y":256.0,},
+        {"$GMRInstance":"v4","%Name":"inst_185272E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_185272E","objectId":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":-64.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Grass","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Grass","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":18,"SerialiseWidth":28,"TileCompressedData":[
           -29,-2147483648,-20,30,-2,31,-4,30,-2,-2147483648,-19,30,4,31,30,30,31,-3,30,-2,-2147483648,-18,30,1,

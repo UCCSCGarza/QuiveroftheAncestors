@@ -31,4 +31,4 @@ time_to_switch = 300;
 switch_countdown = time_to_switch;
 //"default" = chase and shoot, "leap" = stop and leap
 
-hp = 100;
+hp = 75;
